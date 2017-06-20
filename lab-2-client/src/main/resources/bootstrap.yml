@@ -1,7 +1,7 @@
 ---
 spring:
   profiles:
-    active: default
+    active: northamerica
   cloud:
     config:
       uri: http://localhost:8001/
