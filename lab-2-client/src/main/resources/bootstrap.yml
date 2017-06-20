@@ -1,0 +1,12 @@
+---
+spring:
+  profiles:
+    active: default
+  cloud:
+    config:
+      uri: http://localhost:8001/
+      enabled: true
+      name: lab-2-client
+      
+server:
+  port: 8002
