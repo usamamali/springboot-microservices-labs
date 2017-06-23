@@ -1,2 +1,2 @@
 # springboot-microservices-labs
-lear microservices via spring boot
+learn microservices via spring boot
