@@ -11,6 +11,8 @@ server:
 ---
 spring:
   profiles: sentence
+  application:
+    name: lab-3-client-sentence
 server:
   port: 8020  
 words: NotApplicable
