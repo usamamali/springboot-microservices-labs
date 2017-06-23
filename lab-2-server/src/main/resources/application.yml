@@ -4,7 +4,8 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/usamamali/ConfigData
+          uri: https://github.com/usamamali/springboot-microservices-labs
+          search-paths: ConfigData
 
 server:
   port: 8001
