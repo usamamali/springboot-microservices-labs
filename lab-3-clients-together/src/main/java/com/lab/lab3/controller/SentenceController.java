@@ -18,9 +18,9 @@ public class SentenceController {
 
 	@RequestMapping("/sentence")
 	public @ResponseBody String getSentence() {
-		return getWord("LAB-3-CLIENT-SUBJECT") + " " + getWord("LAB-3-CLIENT-VERB") + " "
-				+ getWord("LAB-3-CLIENT-ARTICLE") + " " + getWord("LAB-3-CLIENT-ADJECTIVE") + " "
-				+ getWord("LAB-3-CLIENT-NOUN") + ".";
+		return getWord("LAB-3-EUREKA-CLIENT-SUBJECT") + " " + getWord("LAB-3-EUREKA-CLIENT-VERB") + " "
+				+ getWord("LAB-3-EUREKA-CLIENT-ARTICLE") + " " + getWord("LAB-3-EUREKA-CLIENT-ADJECTIVE") + " "
+				+ getWord("LAB-3-EUREKA-CLIENT-NOUN") + ".";
 	}
 
 	public String getWord(String service) {
