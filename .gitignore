@@ -8,5 +8,6 @@ target/
 ._*
 .Spotlight-V100
 .Trashes
+.project
 ehthumbs.db
 Thumbs.db
