@@ -1,9 +1,0 @@
----
-spring:
-  application:
-    name: lab-3-client-adjective
-  cloud:
-    config:
-      uri: http://localhost:8005/
-      enabled: true
-      name: lab-3-client-adjective
