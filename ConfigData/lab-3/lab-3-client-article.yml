@@ -1,4 +1,2 @@
 ---
-spring:
-  profiles: article
 words: a,the
