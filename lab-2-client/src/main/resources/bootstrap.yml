@@ -6,7 +6,7 @@ spring:
     config:
       uri: http://localhost:8001/
       enabled: true
-      name: lab-2-client
+      name: lab-2-config-server-client
       
 server:
   port: 8002
