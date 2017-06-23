@@ -12,7 +12,7 @@ server:
 spring:
   profiles: sentence
   application:
-    name: lab-3-client-sentence
+    name: lab-3-eureka-client-sentence
 server:
   port: 8020  
 words: NotApplicable
@@ -21,33 +21,33 @@ words: NotApplicable
 spring:
   profiles: subject
   application:
-    name: lab-3-client-subject
+    name: lab-3-eureka-client-subject
 words: I,You,He,She,It
   
 ---
 spring:
   profiles: verb
   application:
-    name: lab-3-client-verb
+    name: lab-3-eureka-client-verb
 words: ran,knew,had,saw,bought
 
 ---
 spring:
   profiles: article
   application:
-    name: lab-3-client-article
+    name: lab-3-eureka-client-article
 words: a,the
 
 ---
 spring:
   profiles: adjective
   application:
-    name: lab-3-client-adjective
+    name: lab-3-eureka-client-adjective
 words: reasonable,leaky,suspicious,ordinary,unlikely
 
 ---
 spring:
   profiles: noun
   application:
-    name: lab-3-client-noun
+    name: lab-3-eureka-client-noun
 words: boat,book,vote,seat,backpack,partition,groundhog

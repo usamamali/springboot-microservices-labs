@@ -1,9 +1,9 @@
 ---
 spring:
   application:
-    name: lab-3-client-article
+    name: lab-3-eureka-client-article
   cloud:
     config:
       uri: http://localhost:8005/
       enabled: true
-      name: lab-3-client-article
+      name: lab-3-eureka-client-article

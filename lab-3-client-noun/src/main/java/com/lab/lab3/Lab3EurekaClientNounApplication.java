@@ -6,9 +6,9 @@ import org.springframework.cloud.client.discovery.EnableDiscoveryClient;
 
 @SpringBootApplication
 @EnableDiscoveryClient
-public class Lab3ClientsTogetherApplication {
+public class Lab3EurekaClientNounApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(Lab3ClientsTogetherApplication.class, args);
+		SpringApplication.run(Lab3EurekaClientNounApplication.class, args);
 	}
 }

@@ -4,12 +4,12 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.lab</groupId>
-	<artifactId>lab-3-clients-config-server</artifactId>
+	<artifactId>lab-3-eureka-clients-config-server</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
-	<name>lab-3-clients-server</name>
-	<description>Lab #3 for Spring Boot - Netflex Eureka Server - Clients Config Server</description>
+	<name>lab-3-eureka-clients-server</name>
+	<description>Lab #3 for Spring Boot - Netflex Eureka Server - Eureka Clients Config Server</description>
 
 	<parent>
 		<groupId>org.springframework.boot</groupId>

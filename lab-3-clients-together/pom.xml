@@ -4,12 +4,12 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.lab</groupId>
-	<artifactId>lab-3-clients-together</artifactId>
+	<artifactId>lab-3-eureka-clients-together</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
-	<name>lab-3-clients-together</name>
-	<description>Lab #3 for Spring Boot - Netflex Eureka Server - All Clients in one app with profiles</description>
+	<name>lab-3-eureka-clients-together</name>
+	<description>Lab #3 for Spring Boot - Netflex Eureka Server - All Eureka Clients in one app with profiles</description>
 
 	<parent>
 		<groupId>org.springframework.boot</groupId>

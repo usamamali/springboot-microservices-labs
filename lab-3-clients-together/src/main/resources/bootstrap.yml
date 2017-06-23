@@ -1,7 +1,7 @@
 ---
 spring:
   application:
-    name: lab-3-clients-together
+    name: lab-3-eureka-clients-together
   cloud:
     config:
       uri: http://localhost:8005/
