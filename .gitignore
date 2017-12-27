@@ -11,3 +11,7 @@ target/
 .project
 ehthumbs.db
 Thumbs.db
+*.eml
+*.iml
+.idea/
+.metadata/
